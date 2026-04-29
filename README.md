@@ -1,12 +1,14 @@
-# Мои HTML-проекты
+# Praktika HTML
 
-Здесь собраны мои учебные HTML-страницы.
+Учебные работы по HTML.
 
-## Список работ
+## Мои страницы
 
-1. [Таблица](https://dashabuhtiarova.github.io/praktika/table27.04.26.html)
-2. [Гиперссылки](https://dashabuhtiarova.github.io/praktika/имя_файла.html)
-3. [Фреймы](https://dashabuhtiarova.github.io/praktika/имя_файла.html)
+1. [Практическая работа 1](https://dashabuhtiarova.github.io/praktika/)
+2. [Таблицы](https://dashabuhtiarova.github.io/praktika/table27.04.26.html)
+3. [Гиперссылки](https://dashabuhtiarova.github.io/praktika/index.html)
+4. [Фреймы](https://dashabuhtiarova.github.io/praktika/frames29.04.26.html)
+5. [Достопримечательности России](https://dashabuhtiarova.github.io/praktika/russia.zip)
 
-## GitHub Repository
-[Открыть репозиторий](https://github.com/DashaBuhtiarova/ИМЯ_РЕПО)
+## GitHub Pages
+Сайт: https://dashabuhtiarova.github.io/praktika/
