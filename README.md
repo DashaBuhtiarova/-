@@ -4,7 +4,7 @@
 
 ## Список работ
 
-1. [Таблица](https://github.com/DashaBuhtiarova/praktika/table27.04.26.html)
+1. [Таблица](https://dashabuhtiarova.github.io/praktika/table27.04.26.html)
 2. [Гиперссылки](https://dashabuhtiarova.github.io/praktika/имя_файла.html)
 3. [Фреймы](https://dashabuhtiarova.github.io/praktika/имя_файла.html)
 
